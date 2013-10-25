@@ -262,3 +262,6 @@ code::selection {
   background: #c7254e;
   color: #eef;
 }
+pre {
+    white-space: pre-wrap;
+}
