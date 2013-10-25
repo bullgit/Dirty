@@ -204,6 +204,5 @@ background:rgba(0, 0, 0, 0.05);
 .wrapper { font-size: 1.9em }
 
 
-/* Bullgit mark */
 a.bgt{color:#1393d5;text-decoration:none;text-align:center;}
-a.bgt span{color:#000} 
+a.bgt span{color:#fff} 
