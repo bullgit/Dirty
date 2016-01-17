@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Rokkitt);
+@import url(https://fonts.googleapis.com/css?family=Rokkitt);
 *{
 box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
@@ -200,32 +200,32 @@ top:-4em;
 .bit-2{
 background:rgba(0, 0, 0, 0.05);
 }
-@keyframes upNdown { 
+@keyframes upNdown {
     100% { top: 5em }
 }
-@-o-keyframes upNdown { 
+@-o-keyframes upNdown {
     100% { top: 5em }
 }
-@-ms-keyframes upNdown { 
+@-ms-keyframes upNdown {
     100% { top: 5em }
 }
-@-moz-keyframes upNdown { 
+@-moz-keyframes upNdown {
     100% { top: 5em }
 }
-@-webkit-keyframes upNdown { 
+@-webkit-keyframes upNdown {
     100% { top: 5em }
 }
 .wrapper { font-size: 1.9em }
 
 
 a.bgt{color:#1393d5;text-decoration:none;text-align:center;}
-a.bgt span{color:#fff} 
+a.bgt span{color:#fff}
 /*catchphrase*/
 header h6{position:absolute;text-align:center;width:100%;padding:;margin-top:-.4em;color:#ccc}
 
 /* Uncomment lines below*/
- 
-pre { 
+
+pre {
   font-size: 90%;
   color: #e74c3c;
   white-space: nowrap;
@@ -234,16 +234,16 @@ pre {
   padding: .4em .2em;
   border: 1px solid #c0392b;
 height:auto;
-} 
+}
 pre code{background:transparent}
 code, pre {
   font-family: Monaco,Menlo,Consolas,"Courier New",monospace;
 }
- 
+
 code, kbd, pre, samp {
   font-family: monospace,serif;
   font-size: 1em;
-} 
+}
 
 * {
   -webkit-font-smoothing: antialiased;
